@@ -1,0 +1,2 @@
+@monthly /home/paycho/bin/removeold.sh
+@daily /home/paycho/bin/btsync

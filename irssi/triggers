@@ -1,0 +1,3 @@
+#Triggers file version 1.0
+-all -regexp '\b[Mm]+[Aa]+[Tt]+\b' -command 'print##hilight##[$T]$C##$N##$M' 
+-all -regexp '\b[Pp][Aa][Yy][Cc][Hh][Oo]\b' -command 'print##hilight##[$T]$C##$N##$M' 
